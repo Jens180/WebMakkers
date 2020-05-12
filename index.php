@@ -1,7 +1,3 @@
 <?php
 
-ulu ulu
-
-sni sni
-
-kri kri
+$ulu = 0;
